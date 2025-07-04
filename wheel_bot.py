@@ -14,7 +14,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_FILE = os.path.join(BASE_DIR, "config.json")
 USERS_FILE  = os.path.join(BASE_DIR, "users.json")
 
-TOKEN       = os.getenv("BOT_TOKEN")               # توکن ربات را متغیر محیطی کن
+TOKEN       = os.getenv("bot183830:7c86e9e4-3334-4a64-a3f6-cc2dbdbf52f5")               # توکن ربات را متغیر محیطی کن
 ADMIN_PHONE = os.getenv("ADMIN_PHONE", "989366582052")
 
 # ---------- فایل‌ها ----------
